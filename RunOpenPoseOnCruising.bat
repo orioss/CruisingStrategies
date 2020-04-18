@@ -1,0 +1,1 @@
+for %%N in (1) do bin\OpenPoseDemo.exe --video CruisingPlanningS#%%NForOpenPose.mp4 --write_json CruisingPlanningS#%%N_OpenPoseData --write_video CruisingPlanningS#%%N_Analyzed.mp4
